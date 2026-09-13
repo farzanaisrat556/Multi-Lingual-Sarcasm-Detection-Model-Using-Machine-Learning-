@@ -1,0 +1,22 @@
+# Data (large / private -- don't commit raw datasets)
+*.csv
+
+# NLTK downloaded data
+nltk_data/
+
+# Model artifacts (large binary files -- consider Git LFS or releases instead)
+*.joblib
+
+# Generated outputs
+confusion_matrix.png
+combined_preprocessed_data.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

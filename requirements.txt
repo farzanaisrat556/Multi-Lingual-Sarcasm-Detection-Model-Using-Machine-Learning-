@@ -1,6 +1,5 @@
-nltk
 pandas
 scikit-learn
-matplotlib
+nltk
 joblib
-langdetect
+matplotlib
